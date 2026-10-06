@@ -1,0 +1,6 @@
+{
+  "name": "Munasar Plagiarism Checker",
+  "description": "Professional plagiarism checker by Munasar Online. Scan text, import PDF/DOCX/TXT documents, inspect matching sources, and export detailed PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
